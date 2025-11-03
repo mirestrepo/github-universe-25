@@ -1,0 +1,22 @@
+{
+  "name": "github-universe-25",
+  "version": "1.0.0",
+  "description": "GitHub Universe 2025 conference highlights presented as Marp slides",
+  "scripts": {
+    "build": "marp slides.md -o index.html",
+    "build:pdf": "marp slides.md -o slides.pdf --allow-local-files",
+    "dev": "marp -s slides.md",
+    "watch": "marp -w slides.md -o index.html"
+  },
+  "keywords": [
+    "github-universe",
+    "marp",
+    "slides",
+    "presentation"
+  ],
+  "author": "mirestrepo",
+  "license": "MIT",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

@@ -1,0 +1,166 @@
+GitHub universe
+
+
+Agent HQ. All agents available with copilot paid. Single command center for all agents
+
+Claud becomes native collaborator with AgentHQ
+
+ClaudeSDK
+
+Assigne issue to Claude then interact in the PR
+
+OpenAI Codex - vscode extension - sign in with GitHub copilot. 
+
+New vesrsion of vscode with co-pilot
+Plan mode
+
+Asynchronous tasks for copilot
+
+You can use @GitHub is slack to write a PR
+
+———-
+Code review
+
+Agentic code review. Custom instructions
+
+——-
+Copilot metrics dashboard
+
+- audit logs
+- Managed access
+
+—-
+Working together with agents
+
+—— talk 2 dawn of the agents
+
+Copilot autofix before code review 
+
+New flow: human approval after brainstorm, spec, final ship. The cyclical parts mostly with agents
+
+—— 
+ask to create a spec
+Delegate to  cloud 
+
+Mission Control 
+——
+In GitHub code review offers groups by copilot on the left helping navigating large changes by feature 
+——
+
+Copilot cloud runs of GitHub runners. If needed they could be in self hosted 
+—-
+Codequality new entry in the settings page
+You can enable it. Tool that detects problems and uses autofix to present solutions 
+
+——
+Security campaigns. Also in the security tab of a repo
+The oasis in the campaign can now be assigned to copilot
+——
+
+Agent control Plane for AI governance 
+Policies
+Metrics
+Mcp controls
+Audit logs
+
+—— 3 talk GitHub building GitHub
+Edr vs adr
+Make a lot of use of code spaces
+They can run all of GitHub in a one chin key code space
+Idea of rollouts. They rollout gradually geographically or percentages or enterprises 
+
+Copilot-instructions.md
+
+——
+Design documents are making a comeback edr 
+
+—— talk after lunch 
+ Speckit. In the tasks stage can make use of the GitHub mcp to turn tasks into issue
+
+Azure mcp. Gcp mcp?
+
+Aitoolkit extension for vs code
+Azure Ai agent evaluation also vscode
+
+——
+
+Sre agents deployed to azure
+
+——
+Enabling the linting and so on extensions helps the agents have access to that info right away
+
+#runSubagent
+
+1. Instructions- generate instructions
+2. Prompts
+3. Agents
+
+And agent  for failing tests. One for passi tests one for refator 
+
+Document on context entity
+
+
+——- day2 keynote
+
+Flurby 2016 connect
+
+Papercuts 
+
+Tiny but mighty wins
+
+I can do this
+
+Open health network
+
+Under city hackathon 
+
+Major league hacking
+
+NWHacks
+
+What’s braille
+
+——
+
+Continuous AI
+Agentic workflows. Check their repos. Like GitHub actions but in plain English 
+Make an Agentic workflow biweekly to give us a report on the bke repository
+
+Agentic workflows for localization translation
+
+Agentic workflows for accessibility 
+GitHub released their Agentic accessibility scanner
+
+Have an agent to immediately tackle issues that get open
+
+How to make it safe
+
+Mcps are over privilege
+Safe-outputs in actions
+
+Coming soon: zero-config
+
+——- talk 3
+Crest agent via Ai toolk to format issues, assign labels
+
+Mcp = usb
+
+GitHub mcp registry for trusted mcp
+
+Add mcp GitHub to connect the agent to GitHub issues api 
+
+Multi agent workflow—-
+Agent orchestration
+
+Slowly remove the human in the loop
+
+Agent Workflow
+
+—devui from the agent framework gives you a ui flow of the agents
+
+——-
+
+Software engineering —-> agent engineering 
+
+
+
