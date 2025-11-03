@@ -1,9 +1,8 @@
 ---
 marp: true
-theme: gaia
-class: lead
+theme: uncover
+class: invert
 paginate: true
-backgroundColor: #fff
 ---
 
 # GitHub Universe 2025
@@ -14,8 +13,11 @@ backgroundColor: #fff
 # Agent HQ
 
 - **All agents available** with GitHub Copilot paid subscription
-- Single command center for all agents
-- Claude becomes native collaborator with Agent HQ
+- **Single command center** for all agents (Mission Control)
+- **Claude becomes native collaborator** with Agent HQ
+- Central orchestration hub for agentic workflows
+- Unified interface for agent management and monitoring
+- Foundation for multi-agent collaboration
 
 ---
 

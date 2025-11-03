@@ -5,7 +5,7 @@
   "scripts": {
     "build": "marp slides.md -o index.html",
     "build:pdf": "marp slides.md -o slides.pdf --allow-local-files",
-    "dev": "marp -s slides.md",
+    "dev": "marp -s .",
     "watch": "marp -w slides.md -o index.html"
   },
   "keywords": [
