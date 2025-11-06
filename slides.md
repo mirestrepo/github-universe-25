@@ -3,21 +3,35 @@ marp: true
 theme: uncover
 class: invert
 paginate: true
+footer: '[Agent HQ](https://github.blog/news-insights/company-news/welcome-home-agents/) | [Mission Control](https://github.blog/changelog/2025-10-28-a-mission-control-to-assign-steer-and-track-copilot-coding-agent-tasks/?utm_source=blog-day1-recap-mission-control-cta&utm_medium=blog&utm_campaign=universe25)|[GitHub Code Quality](https://docs.github.com/en/code-security/code-quality/concepts/about-code-quality)'
 ---
 
-# GitHub Universe 2025
-## My Conference Highlights
+# 🚀 GitHub Universe 2025 
+### The Age of Agents
 
 ---
 
 # Agent HQ
 
-- **All agents available** with GitHub Copilot paid subscription
-- **Single command center** for all agents (Mission Control)
-- **Claude becomes native collaborator** with Agent HQ
+- Next evolution of their platform.
+- Agents as **native** to the **GitHub flow**
 - Central orchestration hub for agentic workflows
 - Unified interface for agent management and monitoring
 - Foundation for multi-agent collaboration
+
+---
+## New Features
+- Coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and more will become available directly within GitHub. 
+- **Single command center** for all agents | [Mission Control](https://github.blog/changelog/2025-10-28-a-mission-control-to-assign-steer-and-track-copilot-coding-agent-tasks/?utm_source=blog-day1-recap-mission-control-cta&utm_medium=blog&utm_campaign=universe25)
+- *Plan* mode now available in VSCode
+
+---
+
+## New Features
+- [GitHub Code Quality](https://docs.github.com/en/code-security/code-quality/concepts/about-code-quality) for Copilor-powered autofixes
+- [Copilot usage metrics dashboard and API](https://github.blog/changelog/2025-10-28-copilot-usage-metrics-dashboard-and-api-in-public-preview/)
+
+
 
 ---
 
